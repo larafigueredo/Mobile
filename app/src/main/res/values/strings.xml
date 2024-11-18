@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="loki_laufeyson">Loki Laufeyson</string>
+    <string name="foto_de_perfil">foto_de_perfil</string>
+    <string name="experi_ncias_anteriores">Experiências Anteriores</string>
+    <string name="candidato_presid_ncia_dos_estados_unidos_da_am_rica">Candidato à presidência dos estados unidos da américa</string>
+    <string name="experi_ncias_anteriores_">Experiências Anteriores</string>
+    <string name="emprego_atual_nunca_trabalhei_formalmente">Emprego atual: Nunca trabalhei formalmente</string>
+</resources>
